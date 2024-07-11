@@ -8,16 +8,12 @@ Developed with the MERN Stack and Redux, this application provides a comprehensi
 
 1. Clone the repository:
    ```sh
-   <!-- git clone https://github.com/yourusername/hostel-management-app.git -->
-   ```
-2. Navigate to the project directory:
-   ```sh
-   <!-- cd hostel-management-app -->
+   <!-- git clone https://github.com/RAJAKSURAJ/attendancemanagement-frontend -->
    ```
 
-3. Navigate to the frontend directory and install frontend dependencies:
+2. Navigate to the directory and install frontend dependencies:
    ```sh
-   cd frontend && npm install
+    npm install
    ```
 
 
@@ -49,18 +45,15 @@ The project structure includes:
 
 ## 📝 Usage
 
-1. Start the frontend development server:
+1. Excute command :
    ```sh
-   cd frontend && npm start
+    $env:NODE_OPTIONS = "--openssl-legacy-provider"
    ```
-2. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+2. Start the frontend development server:
+   ```sh
+    npm start
+   ```
+3. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for any improvements or bug fixes.
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
